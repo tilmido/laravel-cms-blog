@@ -101,7 +101,7 @@ class PostController extends Controller {
         $post->author = $request['author'];
         $post->body = $request['body'];
         $post->update();
-        $post->categories->detach();
+        $post->categories()->detach();
         if (strlen($request['categories']) > 0) {
             $categories_ids = explode(',', $request['categories']);
             foreach ($categories_ids as $category_id) {

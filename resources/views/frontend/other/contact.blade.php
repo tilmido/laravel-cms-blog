@@ -13,19 +13,19 @@ blog index page
             <h2>Contact us</h2>
             <article class="center-block">
                 <form method="post" action="{{ route('contact.send') }}">
-                    <div class="input-group">
+                    <div class="form-group">
                         <label>Full name : </label>
                         <input type='text' class="form-control" name="full_name" value='{{ Request::old('full_name') }}'>
                     </div>
-                    <div class="input-group">
+                    <div class="form-group">
                         <label>Email : </label>
                         <input type='email' class="form-control" name="email" value='{{ Request::old('email') }}'>
                     </div>
-                    <div class="input-group">
+                    <div class="form-group">
                         <label>Subject : </label>
                         <input type='text' class="form-control" name="subject" value='{{ Request::old('subject') }}'>
                     </div>
-                    <div class="input-group">
+                    <div class="form-group">
                         <label>Message : </label>
                         <textarea class="form-control" name="message" rows="5" >{{ Request::old('message') }}</textarea>
                     </div>
