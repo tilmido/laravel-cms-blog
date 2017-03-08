@@ -1,0 +1,1 @@
+you get message from {{ $message_contact->full_name }}

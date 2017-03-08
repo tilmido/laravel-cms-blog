@@ -1,0 +1,1 @@
+hi {{ $message_contact->full_name }} thank you for your message.!

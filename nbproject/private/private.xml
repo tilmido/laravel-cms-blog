@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ws/laravel-cms/resources/views/frontend/blog/single.blade.php</file>
+            <file>file:/D:/ws/laravel-cms/resources/views/admin/login.blade.php</file>
+            <file>file:/D:/ws/laravel-cms/app/Http/Controllers/PostController.php</file>
+            <file>file:/D:/ws/laravel-cms/resources/views/includes/infos.blade.php</file>
+            <file>file:/D:/ws/laravel-cms/resources/views/frontend/blog/index.blade.php</file>
+            <file>file:/D:/ws/laravel-cms/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/D:/ws/laravel-cms/app/Http/routes.php</file>
+            <file>file:/D:/ws/laravel-cms/public/src/css/main.css</file>
+            <file>file:/D:/ws/laravel-cms/resources/views/layouts/master.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
